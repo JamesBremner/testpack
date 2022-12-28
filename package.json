@@ -1,0 +1,22 @@
+{
+  "name": "@jamesbremner/testpack",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "node.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesBremner/testpack.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesBremner/testpack/issues"
+  },
+  "homepage": "https://github.com/JamesBremner/testpack#readme"
+}

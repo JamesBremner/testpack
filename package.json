@@ -19,4 +19,7 @@
     "url": "https://github.com/JamesBremner/testpack/issues"
   },
   "homepage": "https://github.com/JamesBremner/testpack#readme"
+  "publishConfig": {
+     "@jamesbremner:registry": "https://npm.pkg.github.com"
+ }
 }
